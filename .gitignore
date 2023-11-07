@@ -4,4 +4,4 @@ bin/fmod.dll
 bin/ZeldaCPP.exe
 
 #For any Mac Users:
-bin/ZeldaCPP.app/
+bin/ZeldaCPP_Base.app/
