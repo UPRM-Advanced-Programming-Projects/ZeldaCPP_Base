@@ -1,0 +1,7 @@
+obj
+bin/data/images/generated_map.png
+bin/fmod.dll
+bin/ZeldaCPP.exe
+
+#For any Mac Users:
+bin/ZeldaCPP.app/
