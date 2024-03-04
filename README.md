@@ -2,6 +2,8 @@
 The Legend of Zelda: CPP Edition
 This repository is part of a Programming Assignment for the Advanced Programming Course.
 
+Base code developed by: Jomard Concepcion & Jann Garcia
+
 ## Setup
 1. Clone this project inside an OpenFrameworks installation's "apps/myApps/" directory
 2. Build & Run the project
